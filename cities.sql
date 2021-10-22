@@ -12434,6 +12434,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (12817, 'San Mateo', 781),
 (12818, 'San Miguel de Sema', 781),
 (12819, 'San Pablo de Borbur', 781);
+
+
 INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (12820, 'Santa Maria', 781),
 (12821, 'Santa Rosa de Viterbo', 781),
@@ -12614,7 +12616,11 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (12996, 'El Carmen', 787),
 (12997, 'Istmina', 787),
 (12998, 'Jurado', 787),
-(12999, 'Litoral del San Juan', 787),
+(12999, 'Litoral del San Juan', 787);
+
+
+
+INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13000, 'Lloro', 787),
 (13001, 'Medio Atrato', 787),
 (13002, 'Medio Baudo', 787),
@@ -12665,7 +12671,10 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13047, 'Arbelaez', 789),
 (13048, 'Beltran', 789),
 (13049, 'Bituima', 789),
-(13050, 'Bojaca', 789),
+(13050, 'Bojaca', 789);
+
+
+INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13051, 'Cabrera', 789),
 (13052, 'Cachipay', 789),
 (13053, 'Cajica', 789),
@@ -12714,7 +12723,11 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13096, 'Macheta', 789),
 (13097, 'Madrid', 789),
 (13098, 'Manta', 789),
-(13099, 'Medina', 789),
+(13099, 'Medina', 789);
+
+
+
+INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13100, 'Mosquera', 789),
 (13101, 'Narino', 789),
 (13102, 'Nemocon', 789),
@@ -12914,7 +12927,11 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13296, 'Mallama', 796),
 (13297, 'Mosquera', 796),
 (13298, 'Narino', 796),
-(13299, 'Olaya Herrera', 796),
+(13299, 'Olaya Herrera', 796);
+
+
+
+INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13300, 'Ospina', 796),
 (13301, 'Pasto', 796),
 (13302, 'Pizarro', 796),
@@ -13114,7 +13131,10 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13496, 'Ibague', 804),
 (13497, 'Icononzo', 804),
 (13498, 'Lerida', 804),
-(13499, 'Libano', 804),
+(13499, 'Libano', 804);
+
+
+INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13500, 'Mariquita', 804),
 (13501, 'Melgar', 804),
 (13502, 'Murillo', 804),
@@ -13434,6 +13454,8 @@ INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13816, 'Cariari', 847),
 (13817, 'Guacimo', 847),
 (13818, 'Guapiles', 847);
+
+
 INSERT INTO `cities` (`id`, `name`, `state_id`) VALUES
 (13819, 'Jimenez', 847),
 (13820, 'Limon', 847),
